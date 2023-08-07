@@ -10,7 +10,8 @@ Starry Night by Vincent Van Gogh
 
 Manhattan drawn in the style of Starry Night
 
-![download](https://github.com/pauljubcse/Neural-Style-Transfer/assets/132835397/58095f40-1cb0-4a78-8ea9-568c4bd48a5d)
+![download](https://github.com/pauljubcse/Neural-Style-Transfer/assets/132835397/36ab290f-9d2f-4473-90c4-267184bb9643)
+
 
 This is done by Neural Style Transfer using the VGG-19 Model as our base model.
 
